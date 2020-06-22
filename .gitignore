@@ -1,0 +1,7 @@
+.gradle
+.idea
+build
+lib
+spring-unit-integration-test.iml
+spring-unit-integration-test.ipr
+spring-unit-integration-test.iws
