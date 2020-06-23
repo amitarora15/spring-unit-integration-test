@@ -171,3 +171,10 @@ Rest Client
         assertThat(greeting).isEqualTo("hello");
     }
 ```        
+---
+References
+
+> https://reflectoring.io/unit-testing-spring-boot  
+> https://dzone.com/articles/integration-testing-in-spring-boot-1
+> https://docs.spring.io/spring-boot/docs/current/reference/htmlsingle/#boot-features-testing
+> https://www.baeldung.com/spring-boot-testing
